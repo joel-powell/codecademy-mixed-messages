@@ -1,11 +1,13 @@
 ## Mixed Messages
+
+# What is it?
 * A script to generate a random three part phrase
 	
-## Technologies
+# Technologies
 * JavaScript
 * Node
 	
-## Setup
+# Setup
 To run this project, download main.js and run the following in your terminal:
 
 ```
